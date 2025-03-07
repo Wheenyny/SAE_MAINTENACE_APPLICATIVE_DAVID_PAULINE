@@ -2,18 +2,18 @@
 Site permettant aux enfants en primaire de faire des exercices de maths/français et peut être plus par la suite
 
 # installation :
-1 - Téléchargez le code
+1 - Téléchargez le code [FAIT]
 
-2 - Transférez le sur un hébergement avec php (pas de base de données utilisée)
+2 - Transférez le sur un hébergement avec php (pas de base de données utilisée) [FAIT]
 
 3 - Après le transfert, dans les répertoires addition, conjugaison_phrase, conjugaison_verbe, dictee, multiplication et soustraction, changez les droits en 777 pour les sous-répertoires logs, resultats et supprime
 
 # TODO
-1 - Créer un système de connexion avec profil
+1 - Créer un système de connexion avec profil [A FAIRE]
 
 2 - Améliorer le système de logs
 
-3 - Utiliser une base de données
+3 - Utiliser une base de données [A FAIRE]
 
 4 - Améliorer le système d'affichage des résultats (en fonction de l'utilisateur)
 
@@ -21,4 +21,4 @@ Site permettant aux enfants en primaire de faire des exercices de maths/françai
 
 6 - Création d'une application (back office ?) pour faire du text-to-speech
 
-7 - Documentation complète du projet
+7 - Documentation complète du projet [A FAIRE]
